@@ -1,1 +1,2 @@
-PR: add pull reuest
+PR: https://github.com/bayan-alkhatib/linear-regression/pull/1
+
